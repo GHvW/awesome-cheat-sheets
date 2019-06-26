@@ -13,7 +13,10 @@
 ## Elixir
 
 ## F#
-* [F# Cheatsheet](https://dungpa.github.io/fsharp-cheatsheet/)
+* [F# Cheatsheet](https://dungpa.github.io/fsharp-cheatsheet/))
+
+## Clojure
+* [ClojureScript](https://cljs.info/cheatsheet/)
 
 ## Vim
 * [Vim Quick Reference Card](https://michaelgoerz.net/refcards/vimqrc.pdf)
