@@ -1,5 +1,8 @@
 # awesome-cheat-sheets
 
+## Markdown
+* [Markdown cheat sheet](https://github.com/tchapi/markdown-cheatsheet)
+
 ## Rust
 * [Rust Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/mobilepresent?slide=id.p)
 
