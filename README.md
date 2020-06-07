@@ -24,5 +24,8 @@
 ## Vim
 * [Vim Quick Reference Card](https://michaelgoerz.net/refcards/vimqrc.pdf)
 
+## Comparisons
+* [Racket <-> Clojure](https://github.com/greghendershott/racket-clojure-cheat-sheet)
+
 ## Misc
 * [Font-Awesome](https://fontawesome.com/cheatsheet)
