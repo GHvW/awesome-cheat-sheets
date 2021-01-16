@@ -8,6 +8,8 @@
 
 * [Rust Collections](https://doc.rust-lang.org/stable/std/collections/index.html)
 
+* [Rust Language Cheat Sheet](https://cheats.rs/)
+
 ## JavaScript
  * [Jest cheat sheet](https://github.com/sapegin/jest-cheat-sheet)
 
