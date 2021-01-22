@@ -22,6 +22,7 @@
 
 ## Clojure
 * [ClojureScript](https://cljs.info/cheatsheet/)
+* [core.async reference](https://purelyfunctional.tv/wp-content/uploads/2016/05/core_async_reference.pdf)
 
 ## Vim
 * [Vim Quick Reference Card](https://michaelgoerz.net/refcards/vimqrc.pdf)
