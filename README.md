@@ -24,6 +24,9 @@
 * [ClojureScript](https://cljs.info/cheatsheet/)
 * [core.async reference](https://purelyfunctional.tv/wp-content/uploads/2016/05/core_async_reference.pdf)
 
+## CSS
+* [Flexbox](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl)
+
 ## Vim
 * [Vim Quick Reference Card](https://michaelgoerz.net/refcards/vimqrc.pdf)
 
