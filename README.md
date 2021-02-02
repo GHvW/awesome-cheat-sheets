@@ -27,6 +27,9 @@
 ## CSS
 * [Flexbox](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl)
 
+## Scala
+* [ZIO](https://github.com/ghostdogpr/zio-cheatsheet)
+
 ## Vim
 * [Vim Quick Reference Card](https://michaelgoerz.net/refcards/vimqrc.pdf)
 
