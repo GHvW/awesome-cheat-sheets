@@ -38,3 +38,4 @@
 
 ## Misc
 * [Font-Awesome](https://fontawesome.com/cheatsheet)
+* [KaTeX - supported functions](https://katex.org/docs/supported.html)
