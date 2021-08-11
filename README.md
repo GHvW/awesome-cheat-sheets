@@ -33,6 +33,9 @@
 ## Vim
 * [Vim Quick Reference Card](https://michaelgoerz.net/refcards/vimqrc.pdf)
 
+## Vue
+* [Vue Essentials Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
+
 ## Comparisons
 * [Racket <-> Clojure](https://github.com/greghendershott/racket-clojure-cheat-sheet)
 
