@@ -35,6 +35,7 @@
 
 ## Vue
 * [Vue Essentials Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf)
+* [Vue 3 Cheat Sheet](https://www.vuemastery.com/pdf/Vue-3-Cheat-Sheet.pdf)
 
 ## Comparisons
 * [Racket <-> Clojure](https://github.com/greghendershott/racket-clojure-cheat-sheet)
