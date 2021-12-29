@@ -22,6 +22,9 @@
 ## Markdown
 * [Markdown cheat sheet](https://github.com/tchapi/markdown-cheatsheet)
 
+## Racket
+* [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
+
 ## Rust
 * [Rust Container Cheat Sheet](https://docs.google.com/presentation/d/1q-c7UAyrUlM-eZyTo1pd8SZ0qwA_wYxmPZVOQkoDmH4/mobilepresent?slide=id.p)
 
