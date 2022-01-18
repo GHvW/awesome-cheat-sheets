@@ -21,6 +21,12 @@
 
 ## Markdown
 * [Markdown cheat sheet](https://github.com/tchapi/markdown-cheatsheet)
+* [A Visiual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
+
+## Python
+
+### Numpy
+* [NumPy Illustrated](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 
 ## Racket
 * [Racket Cheat Sheet](https://docs.racket-lang.org/racket-cheat/index.html)
