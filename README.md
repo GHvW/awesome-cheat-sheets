@@ -37,6 +37,9 @@
 
 * [Rust Language Cheat Sheet](https://cheats.rs/)
 
+## TLA+
+* [TLA+ Cheat Sheet](https://lamport.azurewebsites.net/tla/summary-standalone.pdf)
+
 ## TypeScript
 
 ## Scala
