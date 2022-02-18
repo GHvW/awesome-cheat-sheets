@@ -40,6 +40,8 @@
 ## TLA+
 * [TLA+ Cheat Sheet](https://lamport.azurewebsites.net/tla/summary-standalone.pdf)
 
+* [TLA+ Quick Start Cheat Sheet](https://mbt.informal.systems/docs/tla_basics_tutorials/tla+cheatsheet.html)
+
 ## TypeScript
 
 ## Scala
