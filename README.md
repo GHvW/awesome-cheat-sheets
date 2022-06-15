@@ -23,6 +23,8 @@
 * [Markdown cheat sheet](https://github.com/tchapi/markdown-cheatsheet)
 
 ## Python
+* [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
 ### Numpy
 * [NumPy Illustrated](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 * [A Visiual Intro to NumPy and Data Representation](http://jalammar.github.io/visual-numpy/)
